@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hammer Delivery</string>
+
+    <!-- Bottom Navigation Bar Strings -->
+    <string name="bottom_nav1">Меню</string>
+    <string name="bottom_nav2">Профиль</string>
+    <string name="bottom_nav3">Карзина</string>
+
+    <string name="cheeses">descriptions</string>
+    <string name="menu_basket">Basket</string>
+    <string name="menu_home">Москва</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="search_your_recipes">Moscow</string>
+    <string name="meal_categories">Categories</string>
+    <string name="category">Category</string>
+    <string name="country">Country</string>
+    <string name="instructions">INSTRUCTIONS</string>
+    <string name="dot_loading">...</string>
+    <string name="Ingredients">INGREDIENTS</string>
+    <string name="youtube">YOUTUBE</string>
+    <string name="source">SOURCE</string>
+    <string name="favorite">Favorite</string>
+</resources>
