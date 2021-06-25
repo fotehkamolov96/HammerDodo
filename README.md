@@ -1,8 +1,11 @@
 # HammerDodo
 
 Mobile application for ordering pizza. Dodopizza analog application.
+
 #Easy way to create account or login with Facebook and Google account.
+
 #Search food in City by name or map.
+
 #Support multiple screen and orientation(splash screen for sample).
 
 
